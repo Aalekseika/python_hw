@@ -1,3 +1,5 @@
+#вычислить факториал некоторого числа используя рекурсию
+
 n=int(input('The number is:'))
 def factorial(n):
     if n==0 or n==1:
